@@ -1,4 +1,4 @@
-echo stoping services
+echo stopping services
 docker stop restheart
 docker stop mongodb
 docker rm restheart
