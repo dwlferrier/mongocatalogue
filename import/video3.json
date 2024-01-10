@@ -1,1 +1,14 @@
-{"video":{"server":1,"Name":"Installing and starting cassandra on a mac","file":"Installingandstartingcassandra-on-mac.mp4","thumb":"installingandstartingcassandra-on-mac-th.png","pic":"installingandstartingcassandra-on-mac.png","uuid":"38a817da-7728-4658-9ecd-44cf638daa81","category":"cassandra"}}
+{
+  "video": {
+    "server": 1,
+    "ip": "34.38.47.251",
+    "Name": "The Gallopin' Gaucho",
+    "file": "galloping-gaucho.mp4",
+    "thumb": "galloping-gaucho-th.png",
+    "pic": "galloping-gaucho.png",
+    "uuid": "38a817da-7728-4658-9ecd-44cf638daa81",
+    "category": "shorts",
+    "category": "disney",
+    "category": "2d"
+  }
+}
