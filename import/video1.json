@@ -1,6 +1,7 @@
 {
   "video": {
     "server": 1,
+    "ip": "34.38.47.251",
     "Name": "Big Buck Bunny",
     "file": "bbb.mp4",
     "thumb": "bbb-th.png",
