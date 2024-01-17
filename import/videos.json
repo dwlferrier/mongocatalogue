@@ -7,8 +7,7 @@
     "thumb": "bbb-th.png",
     "pic": "bbb.png",
     "uuid": "380613d5-71b3-4f24-8a58-ca1a260b49d3",
-    "category": "shorts",
-    "category": "3d"
+    "category": "shorts"
   }
 }
 {
@@ -20,9 +19,7 @@
     "thumb": "steamboat-willie-th.jpg",
     "pic": "steamboat-willie.jpg",
     "uuid": "08d205c9-cc33-4475-ba25-d24ff0426470",
-    "category": "shorts",
-    "category": "disney",
-    "category": "2d"
+    "category": "disney"
   }
 }
 {
@@ -34,8 +31,6 @@
     "thumb": "galloping-gaucho-th.jpg",
     "pic": "galloping-gaucho.jpg",
     "uuid": "38a817da-7728-4658-9ecd-44cf638daa81",
-    "category": "shorts",
-    "category": "disney",
-    "category": "2d"
+    "category": "disney"
   }
 }
